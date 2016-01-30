@@ -1,0 +1,19 @@
+{
+  "name": "template2env",
+  "version": "1.0.1",
+  "description": "A micro dependency that interpolates environment variables",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ughitsaaron/template2env.git"
+  },
+  "scripts": {
+    "test": "mocha --reporter=dot"
+  },
+  "keywords": ["string", "replace", "bash", "environment", "env", "configuration", "config", "utility"],
+  "author": "Aaron Petcoff <hello@aaronpetcoff.me> (http://aaronpetcoff.me)",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^2.4.5"
+  }
+}
