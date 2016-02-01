@@ -1,6 +1,6 @@
 {
   "name": "template2env",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A micro dependency that interpolates environment variables",
   "main": "index.js",
   "repository": {
