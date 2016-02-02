@@ -51,4 +51,4 @@ function temp2env(str, opts) {
   return result;
 }
 
-module.exports = temp2env;
+module.exports.interpolate = temp2env;
